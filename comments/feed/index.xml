@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for NBC PDF Make	</title>
-	<atom:link href="https://nbc.pdfmake.org/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nbc.pdfmake.org/</link>
+	<atom:link href="http://nbc.pdfmake.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://nbc.pdfmake.org/</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Jul 2023 17:21:56 +0000</lastBuildDate>
 	<sy:updatePeriod>

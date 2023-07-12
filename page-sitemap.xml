@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://nbc.pdfmake.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://nbc.pdfmake.org/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://nbc.pdfmake.org/?p=366</loc>
+		<loc>http://nbc.pdfmake.org/?p=366</loc>
 		<lastmod>2023-07-12T17:21:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nbc.pdfmake.org/contact-us/</loc>
+		<loc>http://nbc.pdfmake.org/contact-us/</loc>
 		<lastmod>2023-07-11T20:32:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nbc.pdfmake.org/privacy-policy/</loc>
+		<loc>http://nbc.pdfmake.org/privacy-policy/</loc>
 		<lastmod>2023-07-11T20:36:22+00:00</lastmod>
 	</url>
 </urlset>
